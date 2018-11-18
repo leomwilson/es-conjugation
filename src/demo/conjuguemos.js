@@ -1,5 +1,5 @@
 /**
- * 
+ * Conjugates an infinitive
  * @param {string} v Verb
  * @param {int} p Person (1, 2, 3)
  * @param {string} t Tense
